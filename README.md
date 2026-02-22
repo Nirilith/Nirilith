@@ -36,6 +36,9 @@
 
 <p align="center">https://nirilith.straw.page</p>
 
+###
+
+<h3 align="center">I have ADHD, anxiety, and zone out a lot so If you contact me and I forget to respond I'm sorry!</h3>
 
 ###
 
