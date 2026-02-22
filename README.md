@@ -34,6 +34,10 @@
 
 ###
 
+<p align="center">strawpage soon!</p>
+
+###
+
 <div align="center">
   <img src="https://count.getloli.com/@:nirilith?theme=sketch-1&padding=9&offset=0&scale=0.8&align=top&pixelated=1&darkmode=auto"  />
 </div>
