@@ -34,7 +34,8 @@
 
 ###
 
-<p align="center">strawpage soon!</p>
+<p align="center">https://nirilith.straw.page</p>
+
 
 ###
 
