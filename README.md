@@ -48,6 +48,8 @@
 
 ###
 
+<img width="0" height="0" alt="sayori" src="https://github.com/user-attachments/assets/e68c0275-700b-4ca5-be4d-7ae0fd52dea8" />
+
 <p align="center">^ profile views ^</p>
 
 ###
