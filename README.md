@@ -6,11 +6,11 @@
 
 ###
 
-<img align="right" height="200" src="https://tenor.com/view/genderfluid-genderfluid-flag-genderfluid-pride-pride-pride-flag-gif-4292758353035619400"  />
+<img align="right" height="200" src="https://media.tenor.com/O5Lw-mNHbEgAAAAi/genderfluid-genderfluid-flag.gif"  />
 
 ###
 
-<img align="left" height="200" src="https://tenor.com/view/pride-pride-flag-lgbt-lgbtq-lgbtqia-gif-14286691973844877297"  />
+<img align="left" height="200" src="https://media.tenor.com/xkSGp_Ryv_EAAAAi/pride-pride-flag.gif"  />
 
 ###
 
