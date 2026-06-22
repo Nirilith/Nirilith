@@ -43,17 +43,10 @@
 
 ###
 
-<h2 data-importer="text" align="center">buttons!</h2>
-
-###
-
 <img width="88" height="31" alt="hate-win11-wh" src="https://github.com/user-attachments/assets/52bcdd8f-f4af-41aa-a43c-c146a898cb3c" />
 <img width="88" height="31" alt="arch" src="https://github.com/user-attachments/assets/1d2239f3-bf12-4e0d-a896-e9dc4fe1137f" />
 <img width="88" height="31" alt="minecraft" src="https://github.com/user-attachments/assets/a4e3f5ae-609f-435f-ba27-a3c710c30048" />
 
-###
-
-<h2 data-importer="text" align="center">stamps!</h2>
 
 ###
 
@@ -70,9 +63,6 @@
 <img width="99" height="56" alt="e87" src="https://github.com/user-attachments/assets/51703524-4d2b-44f2-b4b5-8a468cfdab0e" />
 <img width="99" height="56" alt="e89" src="https://github.com/user-attachments/assets/3827c4e9-0c1f-4290-9dd6-df62d3c18e5e" />
 
-###
-
-<h2 data-importer="text" align="center">blinkies!</h2>
 
 ###
 
