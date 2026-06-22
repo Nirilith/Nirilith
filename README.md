@@ -104,4 +104,6 @@
 <img width="150" height="20" alt="nightowl" src="https://github.com/user-attachments/assets/113db5f1-6c7d-42b1-80f2-97cc5d357f55" />
 <img width="150" height="20" alt="blinkiebroke" src="https://github.com/user-attachments/assets/13bc4198-e0ec-4f10-ae92-3ac6ad09c4b0" />
 <img width="150" height="20" alt="1ba01d55" src="https://github.com/user-attachments/assets/fcf0aeb9-09ed-4ae5-bcad-65b31beee8d4" />
+<img width="150" height="20" alt="watchoutarrow" src="https://github.com/user-attachments/assets/a757a2e5-e4bf-4395-b764-34d596fef7c3" />
+<img width="150" height="20" alt="0171-jerma" src="https://github.com/user-attachments/assets/2376e17f-2896-4731-9a41-db686155502c" />
 
