@@ -68,6 +68,11 @@
 <img width="99" height="56" alt="e103" src="https://github.com/user-attachments/assets/e3f12fa1-6293-4761-82d4-7866837aa3bb" />
 <img width="99" height="56" alt="e104" src="https://github.com/user-attachments/assets/3174ed99-7c9c-49c5-a2e9-bb8156178ae0" />
 <img width="99" height="56" alt="e87" src="https://github.com/user-attachments/assets/51703524-4d2b-44f2-b4b5-8a468cfdab0e" />
+<img width="99" height="55" alt="93633054-478" src="https://github.com/user-attachments/assets/1dab5ed2-e1ab-4550-a66f-4bce5681b628" />
+<img width="99" height="56" alt="Animal Crossing Bob" src="https://github.com/user-attachments/assets/118e124d-3a9c-4a98-880f-76388e99e83a" />
+<img width="99" height="56" alt="catsniffedit" src="https://github.com/user-attachments/assets/1d74bd65-bc3e-42a7-8517-25ea17b8e5d5" />
+<img width="99" height="56" alt="bigpiramidd" src="https://github.com/user-attachments/assets/cb2bac66-b91f-4a60-bfd3-7edf52653789" />
+
 <img width="99" height="56" alt="e89" src="https://github.com/user-attachments/assets/3827c4e9-0c1f-4290-9dd6-df62d3c18e5e" />
 <img width="99" height="55" alt="90143473-g-Bo" src="https://github.com/user-attachments/assets/d4fc78b4-a055-4aad-866a-d1d51cdf8699" />
 <img width="99" height="55" alt="93633039-4gn" src="https://github.com/user-attachments/assets/1c3c1b73-3d5c-4aad-918a-b688e8ac1824" />
@@ -123,4 +128,6 @@
 <img width="150" height="20" alt="deviantart_960872597_DDLC Blinkie" src="https://github.com/user-attachments/assets/8bc25d83-7c96-42af-9f42-6367e7d51e91" />
 <img width="150" height="20" alt="7ff66746055da1b6b1bf0d294f73bdba08b2d875" src="https://github.com/user-attachments/assets/5cf555c2-5024-40e6-a96a-c385034269b6" />
 <img width="150" height="20" alt="BLINKIErainOutline" src="https://github.com/user-attachments/assets/2b5ac29d-4675-46b2-be99-9811df99e147" />
+<img width="150" height="20" alt="got-blinkie2" src="https://github.com/user-attachments/assets/7a2dfc81-a54e-4260-bee0-d0d4ca0a12b3" />
+<img width="150" height="20" alt="aa589d1134b3ec2acd9f547b71685e64227b79a0" src="https://github.com/user-attachments/assets/cef3e882-b27a-4dbe-a8e6-147923efbfcd" />
 
