@@ -81,6 +81,7 @@
 <img width="99" height="55" alt="83369618-EP7" src="https://github.com/user-attachments/assets/b8e19ffe-7c26-4f21-93cf-60871f20b29b" />
 <img width="99" height="56" alt="undertale2" src="https://github.com/user-attachments/assets/46c15cad-477e-4057-9880-2fb0f5fd6bd4" />
 <img width="95" height="58" alt="brick" src="https://github.com/user-attachments/assets/2721dbf8-4395-4589-b681-2645f6ff22c4" />
+<img width="99" height="56" alt="Nyan Cat" src="https://github.com/user-attachments/assets/70d9c1f3-5a0e-4324-b2a5-e9e3cbc5dfe3" />
 
 
 
@@ -118,4 +119,7 @@
 <img width="150" height="20" alt="1ba01d55" src="https://github.com/user-attachments/assets/fcf0aeb9-09ed-4ae5-bcad-65b31beee8d4" />
 <img width="150" height="20" alt="watchoutarrow" src="https://github.com/user-attachments/assets/a757a2e5-e4bf-4395-b764-34d596fef7c3" />
 <img width="150" height="20" alt="0171-jerma" src="https://github.com/user-attachments/assets/2376e17f-2896-4731-9a41-db686155502c" />
+<img width="150" height="20" alt="deviantart_960872597_DDLC Blinkie" src="https://github.com/user-attachments/assets/8bc25d83-7c96-42af-9f42-6367e7d51e91" />
+<img width="150" height="20" alt="7ff66746055da1b6b1bf0d294f73bdba08b2d875" src="https://github.com/user-attachments/assets/5cf555c2-5024-40e6-a96a-c385034269b6" />
+<img width="150" height="20" alt="BLINKIErainOutline" src="https://github.com/user-attachments/assets/2b5ac29d-4675-46b2-be99-9811df99e147" />
 
