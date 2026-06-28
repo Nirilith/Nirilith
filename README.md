@@ -88,6 +88,7 @@
 <img width="99" height="56" alt="undertale2" src="https://github.com/user-attachments/assets/46c15cad-477e-4057-9880-2fb0f5fd6bd4" />
 <img width="95" height="58" alt="brick" src="https://github.com/user-attachments/assets/2721dbf8-4395-4589-b681-2645f6ff22c4" />
 <img width="99" height="56" alt="Nyan Cat" src="https://github.com/user-attachments/assets/70d9c1f3-5a0e-4324-b2a5-e9e3cbc5dfe3" />
+<img width="99" height="56" alt="doki" src="https://github.com/user-attachments/assets/5f391c6e-ed37-48a0-943b-07ef302eaa7a" />
 
 
 
