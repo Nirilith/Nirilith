@@ -72,7 +72,7 @@
 <img width="99" height="56" alt="Animal Crossing Bob" src="https://github.com/user-attachments/assets/118e124d-3a9c-4a98-880f-76388e99e83a" />
 <img width="99" height="56" alt="catsniffedit" src="https://github.com/user-attachments/assets/1d74bd65-bc3e-42a7-8517-25ea17b8e5d5" />
 <img width="99" height="56" alt="bigpiramidd" src="https://github.com/user-attachments/assets/cb2bac66-b91f-4a60-bfd3-7edf52653789" />
-
+<img width="99" height="56" alt="Ihaveastampmostingenius2" src="https://github.com/user-attachments/assets/6fc828e4-2e41-4c02-947f-4903c425bda2" />
 <img width="99" height="56" alt="e89" src="https://github.com/user-attachments/assets/3827c4e9-0c1f-4290-9dd6-df62d3c18e5e" />
 <img width="99" height="55" alt="90143473-g-Bo" src="https://github.com/user-attachments/assets/d4fc78b4-a055-4aad-866a-d1d51cdf8699" />
 <img width="99" height="55" alt="93633039-4gn" src="https://github.com/user-attachments/assets/1c3c1b73-3d5c-4aad-918a-b688e8ac1824" />
