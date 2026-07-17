@@ -1,3 +1,8 @@
+<p align="center">
+ <img width="16" height="16" alt="calico-cat-favicon" src="https://github.com/user-attachments/assets/30aec90d-bd28-4ae0-8d14-4bee22db17b0" />
+ <img src="https://github.com/user-attachments/assets/f091156a-3044-4813-bcc9-60f33e712112" alt="title bar">
+ <img width="16" height="16" alt="calico-cat-favicon" src="https://github.com/user-attachments/assets/258670c9-0a5f-4a43-bd62-2dfab4009726" />
+</p>
 <h1 data-importer="text" align="center">Thank you for viewing my github!</h1>
 
 ###
@@ -79,6 +84,7 @@
 <img width="99" height="55" alt="93633039-4gn" src="https://github.com/user-attachments/assets/1c3c1b73-3d5c-4aad-918a-b688e8ac1824" />
 <img width="99" height="55" alt="85022959-c-UP" src="https://github.com/user-attachments/assets/cce70e5a-20dc-4c07-a1f2-363d20bca751" />
 <img width="99" height="55" alt="85581449-c-Da" src="https://github.com/user-attachments/assets/1a30a44c-e328-41d3-9fbb-f7e48fea12b9" />
+<img width="101" height="57" alt="photo_2026-07-08_10-21-34" src="https://github.com/user-attachments/assets/656b4b03-8d73-4126-80cf-ea6283f46e72" />
 <img width="99" height="55" alt="83715012-f-CF" src="https://github.com/user-attachments/assets/b458e08a-812b-465b-b88a-0cbbb018986e" />
 <img width="99" height="55" alt="86341611-Oa-T" src="https://github.com/user-attachments/assets/e613181a-7b25-4c5b-88a4-042db543c615" />
 <img width="99" height="55" alt="83653527-y-Y2" src="https://github.com/user-attachments/assets/14cfc9e2-0ba1-4fca-9ee0-9a93f8f27771" />
@@ -90,10 +96,9 @@
 <img width="95" height="58" alt="brick" src="https://github.com/user-attachments/assets/2721dbf8-4395-4589-b681-2645f6ff22c4" />
 <img width="99" height="56" alt="Nyan Cat" src="https://github.com/user-attachments/assets/70d9c1f3-5a0e-4324-b2a5-e9e3cbc5dfe3" />
 <img width="99" height="56" alt="doki" src="https://github.com/user-attachments/assets/5f391c6e-ed37-48a0-943b-07ef302eaa7a" />
+<img width="101" height="57" alt="photo_2026-07-07_21-04-22" src="https://github.com/user-attachments/assets/bb2b1ae1-fabf-4172-8760-feb97167a8ec" />
 
-
-
-###
+<img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/6d1db781-64f5-4b8b-b1c9-3c01d1b4f6c7"/><img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/0d97bded-6529-41a8-a820-e4de4cfe67ed"/><img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/63e0862b-c5ec-419d-ad46-0d5cf5123579"/>
 <img width="150" height="20" alt="tumblr_99fish_812902291645579264_10" src="https://github.com/user-attachments/assets/f575c07c-0d54-4e54-a437-61c44505dcf3" />
 <img width="150" height="20" alt="tumblr_99fish_812902291645579264_11" src="https://github.com/user-attachments/assets/4f410994-7e1d-43d3-ba1d-3f2653f68feb" />
 <img width="150" height="20" alt="tumblr_99fish_812902291645579264_12" src="https://github.com/user-attachments/assets/f2539731-3464-4670-8409-ed265b65214d" />
@@ -132,4 +137,5 @@
 <img width="150" height="20" alt="BLINKIErainOutline" src="https://github.com/user-attachments/assets/2b5ac29d-4675-46b2-be99-9811df99e147" />
 <img width="150" height="20" alt="got-blinkie2" src="https://github.com/user-attachments/assets/7a2dfc81-a54e-4260-bee0-d0d4ca0a12b3" />
 <img width="150" height="20" alt="aa589d1134b3ec2acd9f547b71685e64227b79a0" src="https://github.com/user-attachments/assets/cef3e882-b27a-4dbe-a8e6-147923efbfcd" />
+<img width="150" height="20" alt="JACKPOT" src="https://github.com/user-attachments/assets/488ceec5-5089-48e6-a780-a10c1cd45b29" />
 
