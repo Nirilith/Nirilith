@@ -97,6 +97,8 @@
 <img width="99" height="56" alt="Nyan Cat" src="https://github.com/user-attachments/assets/70d9c1f3-5a0e-4324-b2a5-e9e3cbc5dfe3" />
 <img width="99" height="56" alt="doki" src="https://github.com/user-attachments/assets/5f391c6e-ed37-48a0-943b-07ef302eaa7a" />
 <img width="101" height="57" alt="photo_2026-07-07_21-04-22" src="https://github.com/user-attachments/assets/bb2b1ae1-fabf-4172-8760-feb97167a8ec" />
+<img width="99" height="56" alt="sayoristamp2" src="https://github.com/user-attachments/assets/d2044b1d-82cc-49e2-995f-0701031570d8" />
+
 
 <img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/6d1db781-64f5-4b8b-b1c9-3c01d1b4f6c7"/><img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/0d97bded-6529-41a8-a820-e4de4cfe67ed"/><img width="180" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/afb1c341-0b78-4ba1-b340-9d675bf159d7" />
 <img width="150" height="20" alt="tumblr_99fish_812902291645579264_10" src="https://github.com/user-attachments/assets/f575c07c-0d54-4e54-a437-61c44505dcf3" />
