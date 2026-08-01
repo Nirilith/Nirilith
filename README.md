@@ -34,19 +34,16 @@
 
 ###
 
-<p data-importer="text" align="center">You can find be under the tree below/next to the signs left of the market area. (NOT to be confused with the pro tree)<br><br>this is where me and my friends hang out 90% of the time. I will either be cosplaying Vinyl Scratch/DJ Pon-3, or using an oc that I made on a whim. feel free to sit with me or say hi! recently I have turned off public chat bubbles so you may need to whisper to get my attention!!<br><br>Thats pretty much all! below Is my guestbook and a collection of blinkies, stamps, buttons, etc, Its a growing collection that I plan on adding to so it'll be a little small at first...If you have any suggestions for stamps, blinkies, buttons, etc, lmk on the guest book or just say hi!</p>
+<p data-importer="text" align="center">You can find be under the tree below/next to the signs left of the market area. (NOT to be confused with the pro tree)<br><br>this is where me and my friends hang out 90% of the time. I will either be cosplaying Vinyl Scratch/DJ Pon-3, or using an oc that I made on a whim. feel free to sit with me or say hi! recently I have turned off public chat bubbles so you may need to whisper to get my attention!!<br><br>Thats pretty much all! below Is my guestbook and a collection of blinkies, stamps, buttons, etc, Its a growing collection that I plan on adding to so it'll be a little small at first...If you have any suggestions for stamps, blinkies, buttons, etc, lmk on the guest book or just say hi! (click the button)</p>
 
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="50" src="https://i.imgur.com/nLkPKF2.gif"  />
+   <a href="https://nirilith.atabook.org"><img data-importer="image" height="50" src="https://i.imgur.com/nLkPKF2.gif"  />
 </div>
 
 ###
 
-<p data-importer="text" align="center">https://nirilith.atabook.org/</p>
-
-###
 
 <img width="88" height="31" alt="hate-win11-wh" src="https://github.com/user-attachments/assets/52bcdd8f-f4af-41aa-a43c-c146a898cb3c" />
 <img width="88" height="31" alt="arch" src="https://github.com/user-attachments/assets/1d2239f3-bf12-4e0d-a896-e9dc4fe1137f" />
