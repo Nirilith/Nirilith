@@ -44,15 +44,16 @@
 
 ###
 
-
+<p align="center">
 <img width="88" height="31" alt="hate-win11-wh" src="https://github.com/user-attachments/assets/52bcdd8f-f4af-41aa-a43c-c146a898cb3c" />
 <img width="88" height="31" alt="arch" src="https://github.com/user-attachments/assets/1d2239f3-bf12-4e0d-a896-e9dc4fe1137f" />
 <img width="88" height="31" alt="minecraft" src="https://github.com/user-attachments/assets/a4e3f5ae-609f-435f-ba27-a3c710c30048" />
-
+<p>
 
 ###
 
-<img width="99" height="56" alt="benjiresize" src="https://github.com/user-attachments/assets/78b9387d-a5d3-4093-ad25-d0dbde72c50b" />
+<p align="center">
+  <a href="https://youtu.be/VpOONaony6c?t=304"><img width="99" height="56" alt="benjiresize" src="https://github.com/user-attachments/assets/78b9387d-a5d3-4093-ad25-d0dbde72c50b" /></a>
 <img width="99" height="56" alt="d74" src="https://github.com/user-attachments/assets/c4ea2705-c8e3-4f62-9946-18984b9ba2bf" />
 <img width="101" height="57" alt="jerma" src="https://github.com/user-attachments/assets/f01ae651-5466-4422-9a0f-ba454b69acab" />
 <img width="99" height="56" alt="STAMPicanimagine" src="https://github.com/user-attachments/assets/32138c88-2ddd-47a7-a4a3-b28c83ec15af" />
@@ -96,9 +97,10 @@
 <img width="101" height="57" alt="photo_2026-07-07_21-04-22" src="https://github.com/user-attachments/assets/bb2b1ae1-fabf-4172-8760-feb97167a8ec" />
 <img width="99" height="56" alt="sayoristamp2" src="https://github.com/user-attachments/assets/d2044b1d-82cc-49e2-995f-0701031570d8" />
 <img width="99" height="56" alt="thedore" src="https://github.com/user-attachments/assets/74c8cc73-54a2-4b2f-9611-15fd7fd83593" />
-
+</p>
 
 <img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/6d1db781-64f5-4b8b-b1c9-3c01d1b4f6c7"/><img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/0d97bded-6529-41a8-a820-e4de4cfe67ed"/><img width="180" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/afb1c341-0b78-4ba1-b340-9d675bf159d7" />
+<p align="center">
 <img width="150" height="20" alt="tumblr_99fish_812902291645579264_10" src="https://github.com/user-attachments/assets/f575c07c-0d54-4e54-a437-61c44505dcf3" />
 <img width="150" height="20" alt="tumblr_99fish_812902291645579264_11" src="https://github.com/user-attachments/assets/4f410994-7e1d-43d3-ba1d-3f2653f68feb" />
 <img width="150" height="20" alt="tumblr_99fish_812902291645579264_12" src="https://github.com/user-attachments/assets/f2539731-3464-4670-8409-ed265b65214d" />
@@ -138,4 +140,4 @@
 <img width="150" height="20" alt="got-blinkie2" src="https://github.com/user-attachments/assets/7a2dfc81-a54e-4260-bee0-d0d4ca0a12b3" />
 <img width="150" height="20" alt="aa589d1134b3ec2acd9f547b71685e64227b79a0" src="https://github.com/user-attachments/assets/cef3e882-b27a-4dbe-a8e6-147923efbfcd" />
 <img width="150" height="20" alt="JACKPOT" src="https://github.com/user-attachments/assets/488ceec5-5089-48e6-a780-a10c1cd45b29" />
-
+<p>
