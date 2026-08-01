@@ -46,7 +46,7 @@
 
 <p align="center">
 <img width="88" height="31" alt="hate-win11-wh" src="https://github.com/user-attachments/assets/52bcdd8f-f4af-41aa-a43c-c146a898cb3c" />
-<img width="88" height="31" alt="arch" src="https://github.com/user-attachments/assets/1d2239f3-bf12-4e0d-a896-e9dc4fe1137f" />
+<a href="https://archlinux.org"><img width="88" height="31" alt="arch" src="https://github.com/user-attachments/assets/1d2239f3-bf12-4e0d-a896-e9dc4fe1137f" />
 <img width="88" height="31" alt="minecraft" src="https://github.com/user-attachments/assets/a4e3f5ae-609f-435f-ba27-a3c710c30048" />
 <p>
 
