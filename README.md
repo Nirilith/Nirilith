@@ -19,6 +19,11 @@
   <img src="https://count.getloli.com/@:nirilith?theme=capoo-2&padding=9&offset=0&scale=0.8&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=k2wsdljlnzv0674hn53sr13u2&cover_image=true&theme=novatorem&show_offline=true&background_color=241f31&interchange=false&profanity=false&hide_remaster=false&bar_color=a4feff&bar_color_cover=false">
+  </a>
+</p>
 
 ###
 
