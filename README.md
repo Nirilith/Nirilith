@@ -25,6 +25,11 @@
   </a>
 </p>
 
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=Nirilith-CO&label=Ponies&color=99eeef)  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nirilith?style=flat&label=Beatboxers&color=99eeef">
+</div>
+
 ###
 
 <img width="150" height="20" alt="unmedicated" src="https://github.com/user-attachments/assets/8cba6e5a-ec49-4cf6-a041-122c48d20418" /> <img width="150" height="20" alt="adhd" src="https://github.com/user-attachments/assets/fcbeee6e-94cd-4dee-aecb-f257ac6f923b" /> <img width="150" height="20" alt="deviantart-956644755-ANXIETY-HAVER-blinkie-F2-U" src="https://github.com/user-attachments/assets/5b9254d7-16b0-432c-875f-f4427cc22d5f" /> <img width="150" height="20" alt="582704235-c16d53f0-2d45-4bb4-97c1-d7a658bda1f1" src="https://github.com/user-attachments/assets/4a4c5825-7e14-41b5-85ee-8dfe12021a01" /> <img width="150" height="20" alt="deviantart-1112996645-DYSLEXIC-blinkie-F2-U" src="https://github.com/user-attachments/assets/6975179c-d61c-4002-943f-b83bd8942e77" /> <img width="150" height="20" alt="56301284f4087c4358c1627aa16f12d4da9548c9" src="https://github.com/user-attachments/assets/525ac80f-3cda-4c9d-b453-9950ec70563a" />
