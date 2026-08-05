@@ -27,6 +27,41 @@
 
 ###
 
+<img width="150" height="20" alt="unmedicated" src="https://github.com/user-attachments/assets/8cba6e5a-ec49-4cf6-a041-122c48d20418" /> <img width="150" height="20" alt="adhd" src="https://github.com/user-attachments/assets/fcbeee6e-94cd-4dee-aecb-f257ac6f923b" /> <img width="150" height="20" alt="deviantart-956644755-ANXIETY-HAVER-blinkie-F2-U" src="https://github.com/user-attachments/assets/5b9254d7-16b0-432c-875f-f4427cc22d5f" /> <img width="150" height="20" alt="582704235-c16d53f0-2d45-4bb4-97c1-d7a658bda1f1" src="https://github.com/user-attachments/assets/4a4c5825-7e14-41b5-85ee-8dfe12021a01" /> <img width="150" height="20" alt="deviantart-1112996645-DYSLEXIC-blinkie-F2-U" src="https://github.com/user-attachments/assets/6975179c-d61c-4002-943f-b83bd8942e77" /> <img width="150" height="20" alt="56301284f4087c4358c1627aa16f12d4da9548c9" src="https://github.com/user-attachments/assets/525ac80f-3cda-4c9d-b453-9950ec70563a" />
+
+<img width="150" height="20" alt="tumblr_99fish_812902291645579264_10" src="https://github.com/user-attachments/assets/f575c07c-0d54-4e54-a437-61c44505dcf3" /> <img width="150" height="20" alt="tumblr_99fish_812902291645579264_11" src="https://github.com/user-attachments/assets/4f410994-7e1d-43d3-ba1d-3f2653f68feb" /> <img width="150" height="20" alt="tumblr_99fish_812902291645579264_12" src="https://github.com/user-attachments/assets/f2539731-3464-4670-8409-ed265b65214d" /> <img width="150" height="20" alt="tumblr_candlemassive_729664464680534016_03" src="https://github.com/user-attachments/assets/32638b40-68ad-4f71-b872-91299c457262" /> <img width="150" height="20" alt="musiclover" src="https://github.com/user-attachments/assets/6e21d097-9f05-43d9-a13f-e9dceb482dce" />
+
+<img width="150" height="20" alt="meow meow meow meow meow 2" src="https://github.com/user-attachments/assets/6aceef80-8a87-409b-b511-1f161f1998e9" /> <img width="150" alt="617124423-11daceb2-c88d-4afa-ba8e-2e40f63c0a59" src="https://github.com/user-attachments/assets/2eb4103f-9611-45b1-8c21-ac71f9b307b9" />
+
+<img width="150" height="20" alt="neon test alt" src="https://github.com/user-attachments/assets/672df1ae-743a-45ec-b631-e6c10a3e4121" /> <img width="150" height="20" alt="got-blinkie2" src="https://github.com/user-attachments/assets/7a2dfc81-a54e-4260-bee0-d0d4ca0a12b3" />
+
+<img width="150" height="20" alt="f2d1ff605ddc859c4aae1effaa90053364c710f9" src="https://github.com/user-attachments/assets/6e76f9dc-f09f-49a2-a000-a80423b9bf11" /> <img width="150" height="20" alt="follow-the-atlas" src="https://github.com/user-attachments/assets/4ca6995e-c0e6-4ad0-98a3-486b990862bd" />
+<img width="150" height="20" alt="possums" src="https://github.com/user-attachments/assets/a9101fb9-f8cb-4c5e-aa76-3da3bf003c3d" /> <img width="150" height="20" alt="tumblr_candlemassive_756834182355959808_02" src="https://github.com/user-attachments/assets/584722cb-b03f-493e-b92f-79f161679f31" /> <img width="150" height="20" alt="ariral" src="https://github.com/user-attachments/assets/999eb5aa-b767-4c79-8fec-99a6c40f1190" />
+<img width="150" height="20" alt="fuckyoujoel" src="https://github.com/user-attachments/assets/4b33d652-d5c2-4838-a2c7-14f57fe241a3" />
+<img width="150" height="20" alt="jerma" src="https://github.com/user-attachments/assets/a104e2e5-59cd-4666-b43e-40c65c4c5025" />
+<img width="150" height="20" alt="fren" src="https://github.com/user-attachments/assets/1c0cb857-ab77-4611-a7ab-6e73ce1572c6" />
+<img width="151" height="26" alt="AjITdPP" src="https://github.com/user-attachments/assets/892272a0-1379-4ed2-b6c8-9f1b29c72b25" />
+<img width="150" height="20" alt="WARFRAME-blinkie-F2-U" src="https://github.com/user-attachments/assets/37990a0c-257b-4642-896f-ab8affcaef99" />
+<img width="150" height="20" alt="parkcivblinkie2" src="https://github.com/user-attachments/assets/3ffaaf72-c4c2-4fe6-9d47-5f8ff64de548" />
+<img width="150" height="20" alt="x6" src="https://github.com/user-attachments/assets/10dc6c44-a4b8-4bc4-ba6b-87fc48142a3c" />
+<img width="150" height="20" alt="mold" src="https://github.com/user-attachments/assets/4c8459a3-62db-40a0-9e5e-4105d5d6612d" />
+<img width="150" height="20" alt="divorce" src="https://github.com/user-attachments/assets/6dc5b502-72b7-4032-b13e-77423855b197" />
+<img width="150" height="20" alt="s11" src="https://github.com/user-attachments/assets/176fe78d-c662-44b2-8d6d-504e7cb7b0c8" />
+<img width="150" height="20" alt="e81" src="https://github.com/user-attachments/assets/e1703f02-51e1-4181-ba76-5c16966abeeb" />
+<img width="150" height="20" alt="d9" src="https://github.com/user-attachments/assets/ff9682f8-ef8f-4d79-92dc-e4ffb20b1625" />
+<img width="150" height="20" alt="nightowl" src="https://github.com/user-attachments/assets/113db5f1-6c7d-42b1-80f2-97cc5d357f55" />
+<img width="150" height="20" alt="blinkiebroke" src="https://github.com/user-attachments/assets/13bc4198-e0ec-4f10-ae92-3ac6ad09c4b0" />
+<img width="150" height="20" alt="1ba01d55" src="https://github.com/user-attachments/assets/fcf0aeb9-09ed-4ae5-bcad-65b31beee8d4" />
+<img width="150" height="20" alt="watchoutarrow" src="https://github.com/user-attachments/assets/a757a2e5-e4bf-4395-b764-34d596fef7c3" />
+<img width="150" height="20" alt="0171-jerma" src="https://github.com/user-attachments/assets/2376e17f-2896-4731-9a41-db686155502c" />
+<img width="150" height="20" alt="deviantart_960872597_DDLC Blinkie" src="https://github.com/user-attachments/assets/8bc25d83-7c96-42af-9f42-6367e7d51e91" />
+<img width="150" height="20" alt="7ff66746055da1b6b1bf0d294f73bdba08b2d875" src="https://github.com/user-attachments/assets/5cf555c2-5024-40e6-a96a-c385034269b6" />
+<img width="150" height="20" alt="BLINKIErainOutline" src="https://github.com/user-attachments/assets/2b5ac29d-4675-46b2-be99-9811df99e147" />
+<img width="150" height="20" alt="aa589d1134b3ec2acd9f547b71685e64227b79a0" src="https://github.com/user-attachments/assets/cef3e882-b27a-4dbe-a8e6-147923efbfcd" />
+<img width="150" height="20" alt="JACKPOT" src="https://github.com/user-attachments/assets/488ceec5-5089-48e6-a780-a10c1cd45b29" />
+
+
+
 <h1 data-importer="text" align="center">basic info</h1>
 
 ###
@@ -103,48 +138,3 @@
 <img width="99" height="56" alt="sayoristamp2" src="https://github.com/user-attachments/assets/d2044b1d-82cc-49e2-995f-0701031570d8" />
 <img width="99" height="56" alt="thedore" src="https://github.com/user-attachments/assets/74c8cc73-54a2-4b2f-9611-15fd7fd83593" />
 </p>
-
-<img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/6d1db781-64f5-4b8b-b1c9-3c01d1b4f6c7"/><img width="320" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/0d97bded-6529-41a8-a820-e4de4cfe67ed"/><img width="180" height="20" alt="sparkle" src="https://github.com/user-attachments/assets/afb1c341-0b78-4ba1-b340-9d675bf159d7" />
-<p align="center">
-<img width="150" height="20" alt="tumblr_99fish_812902291645579264_10" src="https://github.com/user-attachments/assets/f575c07c-0d54-4e54-a437-61c44505dcf3" />
-<img width="150" height="20" alt="tumblr_99fish_812902291645579264_11" src="https://github.com/user-attachments/assets/4f410994-7e1d-43d3-ba1d-3f2653f68feb" />
-<img width="150" height="20" alt="tumblr_99fish_812902291645579264_12" src="https://github.com/user-attachments/assets/f2539731-3464-4670-8409-ed265b65214d" />
-<img width="150" height="20" alt="tumblr_candlemassive_729664464680534016_03" src="https://github.com/user-attachments/assets/32638b40-68ad-4f71-b872-91299c457262" />
-<img width="150" height="20" alt="f2d1ff605ddc859c4aae1effaa90053364c710f9" src="https://github.com/user-attachments/assets/6e76f9dc-f09f-49a2-a000-a80423b9bf11" />
-<img width="150" height="20" alt="follow-the-atlas" src="https://github.com/user-attachments/assets/4ca6995e-c0e6-4ad0-98a3-486b990862bd" />
-<img width="150" height="20" alt="possums" src="https://github.com/user-attachments/assets/a9101fb9-f8cb-4c5e-aa76-3da3bf003c3d" />
-<img width="150" height="20" alt="musiclover" src="https://github.com/user-attachments/assets/6e21d097-9f05-43d9-a13f-e9dceb482dce" />
-<img width="150" height="20" alt="tumblr_candlemassive_756834182355959808_02" src="https://github.com/user-attachments/assets/584722cb-b03f-493e-b92f-79f161679f31" />
-<img width="150" height="20" alt="meow meow meow meow meow 2" src="https://github.com/user-attachments/assets/6aceef80-8a87-409b-b511-1f161f1998e9" />
-<img width="150" height="20" alt="ariral" src="https://github.com/user-attachments/assets/999eb5aa-b767-4c79-8fec-99a6c40f1190" />
-<img width="150" height="20" alt="fuckyoujoel" src="https://github.com/user-attachments/assets/4b33d652-d5c2-4838-a2c7-14f57fe241a3" />
-<img width="150" height="20" alt="jerma" src="https://github.com/user-attachments/assets/a104e2e5-59cd-4666-b43e-40c65c4c5025" />
-<img width="150" height="20" alt="adhd" src="https://github.com/user-attachments/assets/fcbeee6e-94cd-4dee-aecb-f257ac6f923b" />
-<img width="150" height="20" alt="unmedicated" src="https://github.com/user-attachments/assets/8cba6e5a-ec49-4cf6-a041-122c48d20418" />
-<img width="150" height="20" alt="deviantart-956644755-ANXIETY-HAVER-blinkie-F2-U" src="https://github.com/user-attachments/assets/5b9254d7-16b0-432c-875f-f4427cc22d5f" />
-<img width="150" height="20" alt="deviantart-1112996645-DYSLEXIC-blinkie-F2-U" src="https://github.com/user-attachments/assets/6975179c-d61c-4002-943f-b83bd8942e77" />
-<img width="150" height="20" alt="fren" src="https://github.com/user-attachments/assets/1c0cb857-ab77-4611-a7ab-6e73ce1572c6" />
-<img width="150" height="20" alt="56301284f4087c4358c1627aa16f12d4da9548c9" src="https://github.com/user-attachments/assets/525ac80f-3cda-4c9d-b453-9950ec70563a" />
-<img width="151" height="26" alt="AjITdPP" src="https://github.com/user-attachments/assets/892272a0-1379-4ed2-b6c8-9f1b29c72b25" />
-<img width="150" height="20" alt="WARFRAME-blinkie-F2-U" src="https://github.com/user-attachments/assets/37990a0c-257b-4642-896f-ab8affcaef99" />
-<img width="150" height="20" alt="parkcivblinkie2" src="https://github.com/user-attachments/assets/3ffaaf72-c4c2-4fe6-9d47-5f8ff64de548" />
-<img width="150" height="20" alt="x6" src="https://github.com/user-attachments/assets/10dc6c44-a4b8-4bc4-ba6b-87fc48142a3c" />
-<img width="150" height="20" alt="mold" src="https://github.com/user-attachments/assets/4c8459a3-62db-40a0-9e5e-4105d5d6612d" />
-<img width="150" height="20" alt="divorce" src="https://github.com/user-attachments/assets/6dc5b502-72b7-4032-b13e-77423855b197" />
-<img width="150" height="20" alt="s11" src="https://github.com/user-attachments/assets/176fe78d-c662-44b2-8d6d-504e7cb7b0c8" />
-<img width="150" height="20" alt="e81" src="https://github.com/user-attachments/assets/e1703f02-51e1-4181-ba76-5c16966abeeb" />
-<img width="150" height="20" alt="d9" src="https://github.com/user-attachments/assets/ff9682f8-ef8f-4d79-92dc-e4ffb20b1625" />
-<img width="150" height="20" alt="nightowl" src="https://github.com/user-attachments/assets/113db5f1-6c7d-42b1-80f2-97cc5d357f55" />
-<img width="150" height="20" alt="blinkiebroke" src="https://github.com/user-attachments/assets/13bc4198-e0ec-4f10-ae92-3ac6ad09c4b0" />
-<img width="150" height="20" alt="1ba01d55" src="https://github.com/user-attachments/assets/fcf0aeb9-09ed-4ae5-bcad-65b31beee8d4" />
-<img width="150" height="20" alt="watchoutarrow" src="https://github.com/user-attachments/assets/a757a2e5-e4bf-4395-b764-34d596fef7c3" />
-<img width="150" height="20" alt="0171-jerma" src="https://github.com/user-attachments/assets/2376e17f-2896-4731-9a41-db686155502c" />
-<img width="150" height="20" alt="deviantart_960872597_DDLC Blinkie" src="https://github.com/user-attachments/assets/8bc25d83-7c96-42af-9f42-6367e7d51e91" />
-<img width="150" height="20" alt="7ff66746055da1b6b1bf0d294f73bdba08b2d875" src="https://github.com/user-attachments/assets/5cf555c2-5024-40e6-a96a-c385034269b6" />
-<img width="150" height="20" alt="BLINKIErainOutline" src="https://github.com/user-attachments/assets/2b5ac29d-4675-46b2-be99-9811df99e147" />
-<img width="150" height="20" alt="got-blinkie2" src="https://github.com/user-attachments/assets/7a2dfc81-a54e-4260-bee0-d0d4ca0a12b3" />
-<img width="150" height="20" alt="aa589d1134b3ec2acd9f547b71685e64227b79a0" src="https://github.com/user-attachments/assets/cef3e882-b27a-4dbe-a8e6-147923efbfcd" />
-<img width="150" height="20" alt="JACKPOT" src="https://github.com/user-attachments/assets/488ceec5-5089-48e6-a780-a10c1cd45b29" />
- <img width="150" height="20" alt="neon test alt" src="https://github.com/user-attachments/assets/672df1ae-743a-45ec-b631-e6c10a3e4121" />
-
-<p>
