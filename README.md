@@ -24,6 +24,10 @@
 
 ###
 
+<p align="center">
+<img width="88" height="31" alt="hate-win11-wh" src="https://github.com/user-attachments/assets/52bcdd8f-f4af-41aa-a43c-c146a898cb3c" /> <a href="https://archlinux.org"> <img width="88" height="31" alt="arch" src="https://github.com/user-attachments/assets/1d2239f3-bf12-4e0d-a896-e9dc4fe1137f" /> <img width="88" height="31" alt="minecraft" src="https://github.com/user-attachments/assets/a4e3f5ae-609f-435f-ba27-a3c710c30048" />
+<p>
+
 <img width="150" height="20" alt="unmedicated" src="https://github.com/user-attachments/assets/8cba6e5a-ec49-4cf6-a041-122c48d20418" /> <img width="150" height="20" alt="adhd" src="https://github.com/user-attachments/assets/fcbeee6e-94cd-4dee-aecb-f257ac6f923b" /> <img width="150" height="20" alt="deviantart-956644755-ANXIETY-HAVER-blinkie-F2-U" src="https://github.com/user-attachments/assets/5b9254d7-16b0-432c-875f-f4427cc22d5f" /> <img width="150" height="20" alt="htj9hzm" src="https://github.com/user-attachments/assets/f3c8ffa5-73d7-4d44-9d90-0cd3842dfd93" /> <img width="150" height="20" alt="582704235-c16d53f0-2d45-4bb4-97c1-d7a658bda1f1" src="https://github.com/user-attachments/assets/4a4c5825-7e14-41b5-85ee-8dfe12021a01" /> <img width="150" height="20" alt="deviantart-1112996645-DYSLEXIC-blinkie-F2-U" src="https://github.com/user-attachments/assets/6975179c-d61c-4002-943f-b83bd8942e77" /> <img width="150" height="20" alt="56301284f4087c4358c1627aa16f12d4da9548c9" src="https://github.com/user-attachments/assets/525ac80f-3cda-4c9d-b453-9950ec70563a" /> <img width="150" height="20" alt="blinkiesCafe-tr" src="https://github.com/user-attachments/assets/4d720193-6c08-421a-befc-115e88163f0f" />
 
 <img width="116" height="18" alt="wmpw93w" src="https://github.com/user-attachments/assets/43657632-130e-40a8-b43f-c81f4a2cc066" /> <img width="150" height="20" alt="AjITdPP" src="https://github.com/user-attachments/assets/892272a0-1379-4ed2-b6c8-9f1b29c72b25" /> <img width="150" height="20" alt="mold" src="https://github.com/user-attachments/assets/4c8459a3-62db-40a0-9e5e-4105d5d6612d" /> <img width="150" height="20" alt="divorce" src="https://github.com/user-attachments/assets/6dc5b502-72b7-4032-b13e-77423855b197" /> <img width="150" height="20" alt="s11" src="https://github.com/user-attachments/assets/176fe78d-c662-44b2-8d6d-504e7cb7b0c8" /> <img width="150" height="20" alt="1ba01d55" src="https://github.com/user-attachments/assets/fcf0aeb9-09ed-4ae5-bcad-65b31beee8d4" /> <img width="150" height="20" alt="watchoutarrow" src="https://github.com/user-attachments/assets/a757a2e5-e4bf-4395-b764-34d596fef7c3" /> <img width="150" height="20" alt="7ff66746055da1b6b1bf0d294f73bdba08b2d875" src="https://github.com/user-attachments/assets/5cf555c2-5024-40e6-a96a-c385034269b6" /> <img width="150" height="20" alt="BLINKIErainOutline" src="https://github.com/user-attachments/assets/2b5ac29d-4675-46b2-be99-9811df99e147" /> <img width="150" height="20" alt="JACKPOT" src="https://github.com/user-attachments/assets/488ceec5-5089-48e6-a780-a10c1cd45b29" />
@@ -44,7 +48,7 @@
 
 <img width="200" height="41" alt="kb0bmm6" src="https://github.com/user-attachments/assets/1f14a013-3375-4c88-96e3-b6ddc15f6d9a" />
 
-<img width="1200" alt="tumblr_5a2b77a6ebe6343331b5e7ed5da5214c_5e8d71e5_1280" src="https://github.com/user-attachments/assets/2bf66138-b773-4d40-babd-37b40db8dd91" />
+<img width="1200" alt="tumblr_5a2b77a6ebe6343331b5e7ed5da5214c_5e8d71e5_1280" src="https://github.com/user-attachments/assets/2bf66138-b773-4d40-babd-37b40db8dd91" /> 
 
 <img width="99" height="56" alt="r8jpq91" src="https://github.com/user-attachments/assets/dbdebe81-6cb7-4a99-9b56-10f5b8d845b7" /> <img width="99" height="56" alt="htdj6bx" src="https://github.com/user-attachments/assets/2da1ea57-8cbb-4e12-a2d6-9d214d36ea35" /> <img width="95" height="58" alt="xx2xxn5" src="https://github.com/user-attachments/assets/7715dd67-0016-48fc-8ae9-6a4834ec066f" /> <img width="99" height="56" alt="d2vhbbq" src="https://github.com/user-attachments/assets/c0ffd1d8-12c2-490e-a499-c3f059722ad4" /> <img width="99" height="56" alt="vph7xkh" src="https://github.com/user-attachments/assets/8faee85a-7443-46bb-b3fd-1550a7179ca5" /> <img width="99" height="55" alt="k5z564n" src="https://github.com/user-attachments/assets/3124631e-1b99-4063-87f4-6e74066fe88e" />
 
@@ -75,13 +79,5 @@
 <div data-importer="image" align="center">
    <a href="https://nirilith.atabook.org"><img data-importer="image" height="50" src="https://i.imgur.com/nLkPKF2.gif"  />
 </div>
-
-###
-
-<p align="center">
-<img width="88" height="31" alt="hate-win11-wh" src="https://github.com/user-attachments/assets/52bcdd8f-f4af-41aa-a43c-c146a898cb3c" />
-<a href="https://archlinux.org"><img width="88" height="31" alt="arch" src="https://github.com/user-attachments/assets/1d2239f3-bf12-4e0d-a896-e9dc4fe1137f" />
-<img width="88" height="31" alt="minecraft" src="https://github.com/user-attachments/assets/a4e3f5ae-609f-435f-ba27-a3c710c30048" />
-<p>
 
 ###
