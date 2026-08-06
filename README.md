@@ -19,7 +19,7 @@
 
 <div align="center">
  
-<img width="20" alt="tumblr_e292511224f7d598957e341eb0720978_cc3bc075_75" src="https://github.com/user-attachments/assets/e07188ae-f4c7-4efe-b33c-641353e5a3aa" /> ![](https://komarev.com/ghpvc/?username=Nirilith-CO&label=Ponies&color=99eeef&base=1081) <img width="25" alt="tumblr_ecd8eebd1585fcb8ca3fbf4252853894_bb808699_75" src="https://github.com/user-attachments/assets/f6115cd8-39f3-40e7-9685-af4a0bb17d74" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nirilith?style=flat&label=Beatboxers&color=99eeef"> <img width="20" alt="tumblr_c63cb9ca6a8877f4934cac69f2e27d86_2a7f220a_75" src="https://github.com/user-attachments/assets/4ff833bd-3faa-4fd7-9572-9edbf3527150" />
+<img width="20" alt="tumblr_e292511224f7d598957e341eb0720978_cc3bc075_75" src="https://github.com/user-attachments/assets/e07188ae-f4c7-4efe-b33c-641353e5a3aa" /> ![](https://komarev.com/ghpvc/?username=Nirilith-CO&label=Ponies&color=99eeef&base=1081) <img width="25" alt="tumblr_ecd8eebd1585fcb8ca3fbf4252853894_bb808699_75" src="https://github.com/user-attachments/assets/f6115cd8-39f3-40e7-9685-af4a0bb17d74" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/Nirilith?style=flat&label=Beatboxers&color=e090d3"> <img width="20" alt="tumblr_c63cb9ca6a8877f4934cac69f2e27d86_2a7f220a_75" src="https://github.com/user-attachments/assets/4ff833bd-3faa-4fd7-9572-9edbf3527150" />
 
 </div>
 
