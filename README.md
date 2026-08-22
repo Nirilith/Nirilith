@@ -71,7 +71,7 @@
 
 ###
 
-<p data-importer="text" align="center">My name is Niri! I enjoy a very wide variety of music and games! <br>some example music genres are: hyperpop/scenecore, breakcore, dnb, the list goes on...Basically I'm always listening to music.<br><br>I have unmedicated ADHD and Anxiety so there Is a very high chance I will not start a conversation with you myself and may forget to respond to whispers or guestbook signs. remember: I'm probably scared of you.</p>
+<p data-importer="text" align="center">My name is Niri! I enjoy a very wide variety of music and games! I also make Stamps and Blinkies sometimes. <br>some example music genres are: hyperpop/scenecore, breakcore, dnb, the list goes on...Basically I'm always listening to music.<br><br>I have unmedicated ADHD and Anxiety so there Is a very high chance I will not start a conversation with you myself and may forget to respond to whispers or guestbook signs. remember: I'm probably scared of you.</p>
 
 ###
 
