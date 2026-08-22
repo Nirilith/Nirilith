@@ -78,8 +78,10 @@
 <h2 data-importer="text" align="center">ponytown related stuff</h2>
 
 ###
-
-<p data-importer="text" align="center">You can find me under the tree below/next to the signs left of the market area. (NOT to be confused with the pro tree)<br><br>this is where me and my friends hang out 90% of the time. I will either be cosplaying Vinyl Scratch/DJ Pon-3, or using an oc that I made on a whim. feel free to sit with me or say hi! recently I have turned off public chat bubbles so you may need to whisper to get my attention!!<br><br>Thats pretty much all! below Is my guestbook! If you have any suggestions for stamps, blinkies, buttons, etc, lmk on the guest book or just say hi! (click the button) P.S: Thank you to https://github.com/pt-hall-of-media and everyone for nominating me :3</p>
+<div align="center"
+<p><a href="https://github.com/pt-hall-of-media">Pony Town's DJ Pon-3</a></p>
+</div>
+<p data-importer="text" align="center">You can find me under the tree below/next to the signs left of the market area. (NOT to be confused with the pro tree)<br><br>this is where me and my friends hang out 90% of the time. I will either be cosplaying Vinyl Scratch/DJ Pon-3, or using an oc that I made on a whim. feel free to sit with me or say hi! recently I have turned off public chat bubbles so you may need to whisper to get my attention!!<br><br>Thats pretty much all! below Is my guestbook! If you have any suggestions for stamps, blinkies, buttons, etc, lmk on the guest book or just say hi! (click the button)</p>
 
 ###
 
