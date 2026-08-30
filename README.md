@@ -27,6 +27,7 @@
 
 <p align="center">
 <img width="88" height="31" alt="hate-win11-wh" src="https://github.com/user-attachments/assets/52bcdd8f-f4af-41aa-a43c-c146a898cb3c" /> <a href="https://archlinux.org"> <img width="88" height="31" alt="arch" src="https://github.com/user-attachments/assets/1d2239f3-bf12-4e0d-a896-e9dc4fe1137f" /> <img width="88" height="31" alt="minecraft" src="https://github.com/user-attachments/assets/a4e3f5ae-609f-435f-ba27-a3c710c30048" />
+ <img width="88" height="31" alt="h9nwh1f" src="https://github.com/user-attachments/assets/81398402-af33-4e32-b319-625457a9370e" />
 <p>
 
 <div align="center">
@@ -55,7 +56,6 @@
 
 <img width="150" height="20" alt="neon test alt" src="https://github.com/user-attachments/assets/672df1ae-743a-45ec-b631-e6c10a3e4121" /> <img width="150" height="20" alt="got-blinkie2" src="https://github.com/user-attachments/assets/7a2dfc81-a54e-4260-bee0-d0d4ca0a12b3" /> <img width="150" height="20" alt="blinkiebroke" src="https://github.com/user-attachments/assets/13bc4198-e0ec-4f10-ae92-3ac6ad09c4b0" /> <img width="150" height="20" alt="611496483-10dc6c44-a4b8-4bc4-ba6b-87fc48142a3c" src="https://github.com/user-attachments/assets/e9e66eda-352b-450b-b1e9-0ce94a79b17d" /> 
 
-<img width="88" height="31" alt="h9nwh1f" src="https://github.com/user-attachments/assets/81398402-af33-4e32-b319-625457a9370e" />
 
 <img width="200" height="41" alt="kb0bmm6" src="https://github.com/user-attachments/assets/1f14a013-3375-4c88-96e3-b6ddc15f6d9a" />
 
