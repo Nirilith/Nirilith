@@ -41,7 +41,7 @@
 <img width="150" height="20" alt ="nightowl" src="https://github.com/user-attachments/assets/113db5f1-6c7d-42b1-80f2-97cc5d357f55" /> <img width="150" height="20" alt="583503722-cc67d814-13cc-42ac-aa4f-20562d87a738" src="https://github.com/user-attachments/assets/1a42c231-3e48-4728-9217-f1510e3efe4d" />
 <img width="150" height="20" alt="tumblr_404dd1553cf71dad39dfa657847c6fa9_a7c239f4_250" src="https://github.com/user-attachments/assets/6895ba2d-6827-4f98-bb24-c1d13cc9e989" />
 
-
+<img width="150" height="20" alt="techno" src="https://github.com/user-attachments/assets/5b84032c-65b1-4cc8-8c4c-1ea05e8ffc6b" />
 <img width="150" height="20" alt="musiclover" src="https://github.com/user-attachments/assets/6e21d097-9f05-43d9-a13f-e9dceb482dce" /> <img width="150" height="20" alt="tumblr_candlemassive_756834182355959808_02" src="https://github.com/user-attachments/assets/584722cb-b03f-493e-b92f-79f161679f31" />
 <!--mlp blinkies-->
 <img width="150" height="20" alt="tumblr_99fish_812902291645579264_10" src="https://github.com/user-attachments/assets/f575c07c-0d54-4e54-a437-61c44505dcf3" /> <img width="150" height="20" alt="tumblr_99fish_812902291645579264_11" src="https://github.com/user-attachments/assets/4f410994-7e1d-43d3-ba1d-3f2653f68feb" /> <img width="150" height="20" alt="tumblr_99fish_812902291645579264_12" src="https://github.com/user-attachments/assets/f2539731-3464-4670-8409-ed265b65214d" /> <img width="150" height="20" alt="tumblr_candlemassive_729664464680534016_03" src="https://github.com/user-attachments/assets/32638b40-68ad-4f71-b872-91299c457262" />
